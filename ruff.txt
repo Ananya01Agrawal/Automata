@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "my-project"
+version = "0.1.0"
+description = ""
+
+# Conditionally render the python version
+{{#ifEquals pythonVersion "3.12"}}
+python = "{{pythonVersionTwelve}}"
+{{else}}
+  {{#ifEquals pythonVersion "3.13"}}
+  python = "{{pythonVersionThirteen}}"
+  {{/ifEquals}}
+{{/ifEquals}}
