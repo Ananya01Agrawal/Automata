@@ -44,3 +44,16 @@ This year, I was a speaker at PowerUp, representing my team and product, and I a
 
 During my college years, I led the GeeksforGeeks coding club, where I helped build a strong coding culture by organizing regular technical sessions and mentoring students. I also focused on 1:1 interactions to ensure students felt supported and motivated to grow.
 These experiences have strengthened my ability to engage people, coordinate events, and build inclusive communities.
+
+
+How would you engage program engineers and ensure effective communication between tech communities and committees?
+
+As an EC Lead, I would focus on creating structured, transparent, and inclusive communication for program engineers.
+
+I would drive engagement through regular, purpose-driven interactions such as connect sessions and community forums, ensuring program engineers have clear opportunities to participate and contribute.
+
+To ensure effective communication between tech communities and committees, I would establish clear communication channels and defined touchpoints, sharing regular updates and outcomes to maintain alignment and transparency.
+
+I would also encourage representation of program engineers within committee discussions, enabling leadership to directly receive ground-level feedback.
+
+Overall, my approach would be to bridge communication gaps, promote collaboration, and ensure consistent execution across communities and committees.
